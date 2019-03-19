@@ -1,7 +1,3 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: juand
- * Date: 18.03.2019
- * Time: 23:27
- */
+$value = 3**2 + 4*(3*4/2);
+echo  $value;
